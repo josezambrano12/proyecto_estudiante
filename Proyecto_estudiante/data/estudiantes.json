@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "nombre": "JOSE DAMIAN",
+    "apellido": "ZAMBRANO MANZABA",
+    "email": "jzambranom85@unemi.edu.ec",
+    "carnet": "0805410313",
+    "notas": {
+      "Sistemas Operativos": [
+        10.0,
+        60.0
+      ],
+      "Fisica": [
+        9.5
+      ]
+    },
+    "materias": [
+      "Fisica",
+      "Sistemas Operativos"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "SAMANTHA MARIEL",
+    "apellido": "FLORES CHAVEZ",
+    "email": "sam.mariel@iti.edu.ec",
+    "carnet": "0804425197",
+    "notas": {
+      "Gastronomia": [
+        20.0,
+        4.7
+      ],
+      "Ecuaciones": [
+        100.0
+      ]
+    },
+    "materias": [
+      "Ecuaciones",
+      "Gastronomia"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "KARELIS ANAHY",
+    "apellido": "FLORES CHAVEZ",
+    "email": "carelisf@uce.edu.ec",
+    "carnet": "0803412346",
+    "notas": {
+      "Lengua Y Literatura": [
+        10.0
+      ],
+      "Fisica": [
+        60.5
+      ]
+    },
+    "materias": [
+      "Fisica",
+      "Lengua Y Literatura"
+    ]
+  }
+]
